@@ -1,0 +1,47 @@
+{
+    "RenderManAsset": {
+        "usedNodeTypes": [],
+        "version": 1.0,
+        "asset": {
+            "envMap": {
+                "specs": {
+                    "description": "",
+                    "filename": "Env_RGB_Sharp.tex",
+                    "originalBitDepth": 32,
+                    "originalFormat": "Radiance HDR",
+                    "displayWindowSize": [
+                        2048,
+                        1024
+                    ],
+                    "originalSize": [
+                        2048,
+                        1024
+                    ],
+                    "displayWindowOrigin": [
+                        0,
+                        0
+                    ]
+                },
+                "dependencies": [
+                    "Env_RGB_Sharp.tex"
+                ],
+                "compatibility": {
+                    "hostNodeTypes": [],
+                    "host": {
+                        "version": "2017.0",
+                        "name": "Maya"
+                    },
+                    "renderer": {
+                        "version": "21.3"
+                    }
+                },
+                "metadata": {
+                    "author": "lpedersen",
+                    "version": 0,
+                    "created": "2017-03-07 15:47:54"
+                }
+            }
+        },
+        "label": "Stylized RGBSharp"
+    }
+}
